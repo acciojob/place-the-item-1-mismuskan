@@ -2,8 +2,9 @@
 /* Your CSS Code here. */
 #row{
 	display:flex;
-	flex-wrap:wrap;
 	justify-content:space-between;
+	flex-wrap:wrap;
+	
 /* 	align-items:space-between; */
 }
 #box1{
