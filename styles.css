@@ -2,7 +2,7 @@
 /* Your CSS Code here. */
 #row{
 	display:flex;
-	flex-wrap:wrap-reverse;
+	flex-wrap:wrap;
 	justify-content:space-between;
 /* 	align-items:space-between; */
 }
