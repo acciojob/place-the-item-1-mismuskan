@@ -7,12 +7,12 @@
 	
 /* 	align-items:space-between; */
 }
-#box1{
+#item{
 	width:200px;
 	height:200px;
 	background-color:green;
 }
-#box2{
+/* #box2{
 	width:200px;
 	height:200px;
 	background-color:red;
@@ -21,4 +21,4 @@
 	width:200px;
 	height:200px;
 	background-color:blue;
-}
+} */
